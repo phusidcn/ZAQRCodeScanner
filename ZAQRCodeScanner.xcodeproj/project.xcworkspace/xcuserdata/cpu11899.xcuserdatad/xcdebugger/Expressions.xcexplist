@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke_2.47:QRDecodeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke_4:QRDecodeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[QRDecodeManager managerInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke:QRDecodeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke_2:QRDecodeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[QRDecodeManager managerInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke_5:QRDecodeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[QRDecodeManager managerInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__53-[QRDecodeManager decodeImage:WithCompletionHandler:]_block_invoke_2.51:QRDecodeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[QRDecodeManager managerInstance]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QRScanner_Vision decodeFromImage:WithCompletionHandler:]:QRScanner+Vision.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
